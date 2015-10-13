@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">Context-Aware Face Detection Library</string>
+	<string name="X-Mashape-Key">ADD YOUR MASHAPE KEY HERE</string>
+</resources>
