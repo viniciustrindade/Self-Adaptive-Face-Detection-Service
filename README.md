@@ -8,13 +8,13 @@ The proposed service wraps and composes third-part face detection services throw
 
 ## Included components:
 - Android services:
--- Viola-Jones detector with OpenCV
--- Google Play Services Face API
+  - Viola-Jones detector with OpenCV
+  - Google Play Services Face API
 
 - Web services:
--- Face Rect API
--- Sky Biometry API
--- Project Oxford Face API
+  - Face Rect API
+  - Sky Biometry API
+  - Project Oxford Face API
 
 TO DO
 
